@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">com.akdeniz.truststoresample</string>
+    <string name="instruction">Enter your HTTPS url and connect. It will request simple GET!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_trust">TrustActivity</string>
+    <string name="done">Done</string>
+    <string name="trustedcerts_explaination">Here is your trusted certificates. Click to remove!</string>
+
+</resources>
